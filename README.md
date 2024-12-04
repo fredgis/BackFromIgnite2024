@@ -14,9 +14,9 @@ This repository contains the Back From Ignite France 2024 video presenting the d
 
 [Microsoft-Fabric-Database-and-RAG-application/FabricDBRAG.mp4 at main · fredgis/Microsoft-Fabric-Database-and-RAG-application](https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDBRAG.mp4)
 
-```html
-<img src="FabricDatabase.png" alt="Texte alternatif" width="500"/>
-```
+
+
+![https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricVector.png)]()
 
 [FabricVector.png](https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricVector.png)
 
