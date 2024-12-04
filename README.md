@@ -12,8 +12,9 @@ The repository includes detailed instructions on setting up the environment, dep
 
 This repository contains the Back From Ignite France 2024 video presenting the deployment of the above sample linked to gpt4o and ada2 models.
 
+[Microsoft-Fabric-Database-and-RAG-application/FabricDBRAG.mp4 at main · fredgis/Microsoft-Fabric-Database-and-RAG-application](https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDBRAG.mp4)
 
 <video width="320" height="240" controls>
-  <source src="FabricDBRAG.mp4" type="video/mp4">
+  <source src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDBRAG.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
