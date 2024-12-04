@@ -12,6 +12,7 @@ The repository includes detailed instructions on setting up the environment, dep
 
 This repository contains the Back From Ignite France 2024 video presenting the deployment of the above sample linked to gpt4o and ada2 models.
 
+
 <video width="320" height="240" controls>
   <source src="FabricDBRAG.mp4" type="video/mp4">
   Your browser does not support the video tag.
