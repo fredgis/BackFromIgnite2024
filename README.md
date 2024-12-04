@@ -31,7 +31,15 @@ This repository contains the Back From Ignite France 2024 video presenting the d
 [Microsoft-Fabric-Database-and-RAG-application/FabricDBRAG.mp4 at main · fredgis/Microsoft-Fabric-Database-and-RAG-application](https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDBRAG.mp4)
 
 <p align="center">
-  <img src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDatabase.png" alt="Microsoft Fabric Databases" width="400"/>
+  <img src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricDatabase.png" alt="Microsoft Fabric Databases" width="400" style="margin-right: 20px;"/>
+  <img src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricVector.png" alt="Your Second Image" width="400"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/FabricChainlit.png" alt="Microsoft Fabric Databases" width="400" style="margin-right: 20px;"/>
+  <img src="https://github.com/fredgis/Microsoft-Fabric-Database-and-RAG-application/blob/main/Fabric4o.png" alt="Your Second Image" width="400"/>
 </p>
 
 [Microsoft Fabric - De l’analyse à la mise en place d’une plateforme de données unifiée (fabricbook.fr)](https://fabricbook.fr/)
